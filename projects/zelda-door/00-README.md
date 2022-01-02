@@ -41,6 +41,3 @@ the green LED is turned off and the red LED is turned on.
 Here is what the pi, circuit, and back of the door look like:
 
 [![All together now](https://raw.githubusercontent.com/jeffreyiacono/images/master/zelda-door/back-of-door-breadboard-pi.jpeg)](https://raw.githubusercontent.com/jeffreyiacono/images/master/zelda-door/back-of-door-breadboard-pi.jpeg "Everything all together")
-
-## Questions, comments, concerns
-Just let me know via the comments below. Thanks!
