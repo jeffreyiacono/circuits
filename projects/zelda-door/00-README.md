@@ -1,7 +1,7 @@
 # Legend of Zelda Secret Found Door
 When door is closed, red LED is lit.
 <br />
-When door is opened, green LED is lit and Legend of Zelda [secret found](#file-02-loz-secret-wav) sound is played.
+When door is opened, green LED is lit and Legend of Zelda [secret found](https://github.com/jeffreyiacono/circuits/blob/main/projects/zelda-door/02-loz-secret.wav) sound is played.
 
 <a href="https://photos.app.goo.gl/nrxLiGpwgWGxYoKRA">
   <img alt="View Demo Video" src="https://raw.githubusercontent.com/jeffreyiacono/images/master/zelda-door/view-door-open-demo.png" />
@@ -28,7 +28,7 @@ And here is the schematic view of the circuit ...
 Apologies if this is not the standard/best way to present a schematic. I have no idea what I'm doing here 😉
 
 ### The Code
-See [here](#file-01-door-monitor-py).
+See [here](https://github.com/jeffreyiacono/circuits/blob/main/projects/zelda-door/01-door-monitor.py).
 
 The script starts with some initial setup to get the board, pins, etc.
 configured. When the switch changes, the `switchChangedFn` is
